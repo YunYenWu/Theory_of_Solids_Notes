@@ -1,0 +1,8 @@
+## 忽略所有 LaTeX 編譯產生的暫存雜物
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
